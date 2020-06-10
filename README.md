@@ -1,4 +1,4 @@
-# Meadical-Tratment
+# Meadical-Treatment
 
 link of competition : https://www.kaggle.com/c/msk-redefining-cancer-treatment.
 
